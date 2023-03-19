@@ -8,9 +8,7 @@ typechain
 
 yarn.lock
 
-.env
-
 typechain/*
 
-
+coverage/*
 
